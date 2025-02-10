@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 
-const API_BASE_URL = "https://localhost:7097"; // Make sure this matches your backend
+const API_BASE_URL = "https://localhost:7097"; 
 
 function Register({ setUser }) {
   const navigate = useNavigate();
