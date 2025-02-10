@@ -6,7 +6,6 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Load configuration
 var configuration = builder.Configuration;
 
 // Get JWT secret key
