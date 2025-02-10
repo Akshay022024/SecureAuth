@@ -1,5 +1,5 @@
 # SecureAuth
-# SecureAuth
+
 
 SecureAuth is a modern authentication system built with **React** (frontend) and **ASP.NET Core** (backend). It uses **JWT authentication with HTTP-only cookies** for secure login sessions.
 
@@ -13,7 +13,6 @@ SecureAuth is a modern authentication system built with **React** (frontend) and
 ## 📸 Preview
 ![SecureAuth Screenshot](![Screenshot 2025-02-10 124752](https://github.com/user-attachments/assets/c1130408-a85a-469f-aa6f-779765079c4f)
 )  
-*(Replace `screenshot.png` with your actual image file)*
 
 ## 📂 Project Structure
 ```
